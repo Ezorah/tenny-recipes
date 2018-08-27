@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.exorah.pkg.Gimp-2.10</string>
+	<string>com.github.exorah.pkg.GIMP2</string>
 	<key>Process</key>
 	<array>
 		<dict>

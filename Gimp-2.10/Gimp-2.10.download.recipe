@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Gimp-2.10.</string>
 	<key>Identifier</key>
-<string>com.github.tenny-recipes.jss.GIMP2.download</string>
+<string>com.github.tenny-recipes.jss.GIMP2</string>
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>

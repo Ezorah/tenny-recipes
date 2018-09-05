@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.tenny-recipes.pkg.GIMP2.download</string>
+	<string>com.github.tenny-recipes.pkg.GIMP2</string>
 	<key>Process</key>
 	<array>
 		<dict>
